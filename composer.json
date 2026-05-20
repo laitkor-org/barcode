@@ -4,9 +4,9 @@
     "license": "MIT",
     "description": "Fork do codeitnowin/barcode que foi descontinuado",
     "keywords": ["barcode","lessclick-system"],
-    "homepage": "https://bitbucket.org/lessclick-systems/barcode.git",
+    "homepage": "https://laitkor.com",
     "authors": [
-        {"name": "Akhtar Khan", "email": "er.akhtarkhan@gmail.com"}
+        {"name": "Laikor", "email": "pmo@laitkor.com"}
     ],
     "minimum-stability": "stable",
     "version" : "3.0.6",
